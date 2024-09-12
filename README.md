@@ -1,2 +1,6 @@
 # RhineEPM
- A continually improving LLM
+
+EPM - Ever Progress Model (LLM)
+
+A continually improving LLM
+
